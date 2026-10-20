@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="./assets/iarley-codigo-em-movimento.gif"
+    src="./iarley-codigo-em-movimento.gif"
     alt="Código de programação em movimento"
     width="100%"
   />
