@@ -9,8 +9,6 @@
 <p align="center">
   <strong>Desenvolvedor Full Stack</strong>
   <br>
-  <strong>Software Engineer</strong>
-  <br>
   Desenvolvendo soluções através da tecnologia e do código.
 </p>
 <p align="center">
