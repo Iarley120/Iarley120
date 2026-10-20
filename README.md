@@ -76,12 +76,3 @@
   />
 </p>
 
-<br clear="left" />
-
----
-
-### 📌 Projetos em Destaque
-
-Confira meus repositórios e projetos no GitHub:
-
-[![Meus repositórios](https://custom-icon-badges.demolab.com/badge/Ver%20meus%20reposit%C3%B3rios-181717?logo=repo&logoColor=white)](https://github.com/Iarley120?tab=repositories)
