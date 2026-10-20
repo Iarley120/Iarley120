@@ -7,16 +7,14 @@
     width="85%"
   />
 </p>
-<br>
-
-**`Desenvolvedor Full Stack`**
-
-**Software Engineer**
-
-
-Desenvolvendo soluções através da tecnologia e do código.
-<br>
-
+<p align="center">
+  <strong>Desenvolvedor Full Stack</strong>
+  <br>
+  <strong>Software Engineer</strong>
+  <br>
+  Desenvolvendo soluções através da tecnologia e do código.
+</p>
+<p align="center">
 <a href="https://github.com/Iarley120?tab=repositories&sort=stargazers">
   <img
     alt="Total de estrelas"
