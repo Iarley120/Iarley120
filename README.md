@@ -75,4 +75,10 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iarley120&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </p>
-
+<br>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/larley120/larley120/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/larley120/larley120/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/larley120/larley120/output/pacman-contribution-graph.svg">
+</picture>
