@@ -4,16 +4,17 @@
   <img
     src="./iarley-codigo-em-movimento.gif"
     alt="Código de programação em movimento"
-    width="80%"
+    width="85%"
   />
 </p>
-
 <br>
 
 **`Desenvolvedor Full Stack`**
 
 **Software Engineer**
 
+
+Desenvolvendo soluções através da tecnologia e do código.
 <br>
 
 <a href="https://github.com/Iarley120?tab=repositories&sort=stargazers">
