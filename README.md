@@ -4,26 +4,11 @@
   <img
     src="./iarley-codigo-em-movimento.gif"
     alt="Código de programação em movimento"
-    width="100%"
+    width="80%"
   />
 </p>
 
 <br>
-
-**`Desenvolvedor FullStack`**
-
-**Software Engineer**
-
-<br>
-
-# 👨🏻‍💻 Iarley Gabriel
-
-**`Desenvolvedor Full Stack`**
-
-**Software Engineer**
-
-
-# 👨🏻‍💻 Iarley Gabriel
 
 **`Desenvolvedor Full Stack`**
 
