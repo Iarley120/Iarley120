@@ -1,11 +1,10 @@
 # 👨🏻‍💻 Iarley Gabriel
 
-<p align="center">
-  <img
-    src="codigo.gif"
-    alt="Código de programação em movimento"
-    width="85%"
-  />
+
+<div align="center">
+  <img src="./codigo.gif" width="800" alt="Animação de código" />
+</div>
+
 </p>
 <p align="center">
   <strong>Desenvolvedor Full Stack</strong>
