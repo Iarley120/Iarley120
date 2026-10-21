@@ -3,7 +3,7 @@
 
 <p align="center">
   <img
-    src="./codigo.gif"
+    src=".github/Bannergif.gif"
     alt="Animação de código"
     width="85%"
   />
