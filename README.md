@@ -6,7 +6,7 @@
     alt="Animação de código"
     width="85%"
   />
----
+
 <p align="left">
   Engenheiro de Software e Desenvolvedor Full Stack, apaixonado por tecnologia e inovação, com foco na criação de soluções digitais eficientes, escaláveis e de alta qualidade, transformando ideias em aplicações que resolvem problemas reais.
 </p>
