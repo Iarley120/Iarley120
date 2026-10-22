@@ -72,7 +72,7 @@
 <img align="left" alt="Git" title="Git" width="40px" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="GoogleClaud" title="GoogleClaud" width="40px" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"/>
 <img align="left" alt="Vercel" title="GoogleClaud" width="40px" hspace="5" src=
-"https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" /> 
+"https://img.icons8.com/?size=100&id=2xFS7aynbwiR&format=png&color=000000" /> 
 
 
 
