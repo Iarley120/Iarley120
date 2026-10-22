@@ -34,9 +34,9 @@
 
 ### 🎨 Frontend
 
-<img align="left" alt="HTML5" title="HTML5" width="40px" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS3" title="CSS3" width="40px" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" title="JavaScript" width="40px" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="HTML5" title="HTML5" width="40px" hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" title="CSS3" width="40px" hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="40px" hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
 <br clear="left"/>
 
@@ -44,12 +44,12 @@
 
 ### ⚙️ Backend
 
-<img align="left" alt="C" title="C" width="40px" hspace="5" src="https://img.icons8.com/fluency/48/c-programming.png" />
+<img align="left" alt="C" title="C" width="40px" hspace="3" src="https://img.icons8.com/fluency/48/c-programming.png" />
 
-<img align="left" alt="Java" title="Java" width="40px" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-<img align="left" alt="Python" title="Python" width="40px" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="PHP" title="PHP" width="40px" hspace="5"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-<img align="left" alt="Node.js" title="Node.js" width="40px" hspace="5"  style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Java" title="Java" width="40px" hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+<img align="left" alt="Python" title="Python" width="40px" hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="PHP" title="PHP" width="40px" hspace="3"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img align="left" alt="Node.js" title="Node.js" width="40px" hspace="3"  style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 
 <br clear="left"/>
 
@@ -57,8 +57,8 @@
 
 ### 🗄️ Bancos de Dados
 
-<img align="left" alt="MySQL" title="MySQL" width="40px" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="MariaDB" title="MariaDB" width="40px" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" />
+<img align="left" alt="MySQL" title="MySQL" width="40px" hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="MariaDB" title="MariaDB" width="40px" hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" />
 <img align="left" alt="SQLite" title="SQLite" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
 
 <br clear="left"/>
@@ -68,10 +68,10 @@
 
 ### 🐳 DevOps & Infraestrutura
 
-<img align="left" alt="Docker" title="Docker" width="40px" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-<img align="left" alt="Git" title="Git" width="40px" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="GoogleClaud" title="GoogleClaud" width="40px" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"/>
-<img align="left" alt="Vercel" title="GoogleClaud" width="40px" hspace="5" src=
+<img align="left" alt="Docker" title="Docker" width="40px" hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+<img align="left" alt="Git" title="Git" width="40px" hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="GoogleClaud" title="GoogleClaud" width="40px" hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"/>
+<img align="left" alt="Vercel" title="GoogleClaud" width="40px" hspace="3" src=
 "https://img.icons8.com/?size=100&id=2xFS7aynbwiR&format=png&color=000000" /> 
 
 
@@ -82,8 +82,8 @@
 
 ### 🖥️ Sistemas Operacionais
 
-<img align="left" alt="Linux" title="Linux" width="40px" hspace="5"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-<img align="left" alt="Windows 11" title="Windows 11" width="40px" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
+<img align="left" alt="Linux" title="Linux" width="40px" hspace="3"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img align="left" alt="Windows 11" title="Windows 11" width="40px" hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
 <img align="left" alt="Kali Linux" title="Kali Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" />
 <br clear="left"/>
 
