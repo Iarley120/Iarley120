@@ -71,7 +71,8 @@
 <img align="left" alt="Docker" title="Docker" width="40px" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
 <img align="left" alt="Git" title="Git" width="40px" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="GoogleClaud" title="GoogleClaud" width="40px" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"/>
-
+<img align="left" alt="Vercel" title="GoogleClaud" width="40px" hspace="5" src=
+"https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" /> 
 
 
 
