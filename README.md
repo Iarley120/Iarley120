@@ -70,7 +70,7 @@
 
 <img align="left" alt="Docker" title="Docker" width="40px" hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
 <img align="left" alt="Git" title="Git" width="40px" hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="Vercel" title="GoogleClaud" width="40px" hspace="3" src=
+<img align="left" alt="Vercel" title="vercel" width="40px" hspace="3" src=
 "https://img.icons8.com/?size=100&id=2xFS7aynbwiR&format=png&color=000000" /> 
 <img align="left" alt="cloudflare" title="cloudflare" width=40px hspace="3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg"  />
           
