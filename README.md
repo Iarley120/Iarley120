@@ -1,5 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anton&color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo,+eu+sou+o+Iarley!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anton&color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo,+eu+sou+o+Iarley!)](https://git.io/typing-svg)
+      <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
+
 ---
+
 <p align="center">
   <img
     src=".github/Bannergif.gif"
@@ -89,35 +94,21 @@
 ---
 
 ### 📊 Estatísticas
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img
-        src="https://github-readme-stats-eight-theta.vercel.app/api?username=iarley120&show_icons=true&theme=dark&hide_border=true"
-        height="165"
-        alt="GitHub Stats"
-      />
-    </td>
-    <td align="center">
-      <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=iarley120&theme=dark&hide_border=true"
-        height="165"
-        alt="GitHub Streak"
-      />
-    </td>
-  </tr>
-</table>
-
-
 <p align="center">
   <img
-    alt="Linguagens mais utilizadas"
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=iarley120&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    src="https://raw.githubusercontent.com/Iarley120/github-stats/generated/overview.svg"
+    alt="Estatísticas do GitHub"
+    width="49%"
   />
-</p>
+  <img
+    src="https://raw.githubusercontent.com/Iarley120/github-stats/generated/languages.svg"
+    alt="Linguagens utilizadas"
+    width="49%"
+  />
+  
+  ---
 
+</p>
 <br clear="all"/>
 
 <picture>
