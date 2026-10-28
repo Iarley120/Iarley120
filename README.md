@@ -100,7 +100,11 @@
     alt="Estatísticas do GitHub"
     width="49%"
   />
-
+  <img
+    src="https://raw.githubusercontent.com/Iarley120/github-stats/generated/languages.svg"
+    alt="Linguagens utilizadas"
+    width="49%"
+  />
   
   ---
 
